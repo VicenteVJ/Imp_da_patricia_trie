@@ -1,11 +1,11 @@
 # Imp_da_patricia_trie
 implementação da patrícia trie
 
-#Vicente Joel
+# Vicente Joel
 
 O código foi feito com base no material fornecido pelo professor.
 
-#Execução da main.c
+# Execução da main.c
 Ao executar o arquivo main.c, 3 arquivos binários serão criados:
 
 metadados.dat: arquivo binário que armazena os metadados da aplicação
